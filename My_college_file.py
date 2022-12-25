@@ -4,5 +4,5 @@ for i in range(1,n+1):
         print(' ',end='')
     for l in range(i,n):
         print(l,end='')
-
+# Stella dont keep crying
     print()
